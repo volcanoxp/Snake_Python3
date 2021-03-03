@@ -1,3 +1,5 @@
+#Author: Jose Galarza
+
 import pygame
 import random
 
